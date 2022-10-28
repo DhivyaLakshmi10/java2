@@ -1,23 +1,23 @@
-"""Iterator class
-It is time to explore some unique classes and methods in Collections. The Iterator class is one such. You have created test d ata for Stall class
-with the name of stall starting with prefix 'test', It's time to remove those objects. While iterating a collection through a for loop or a for each
-loop, you cannot modify or remove an element. The Iterator class facilitates such functionalities. Hence while you iterate through a Collection
-using Iterator you can modify the elements. Let's implement it to delete test data.
-Strictly adhere to the Object-Oriented specifications given in the problem statement. All class names, attribute names and method
-names should be the same as specified in the problem statement.
-Create a class Stall with the following private attributes.
-Attributes Datatype
-name String
-detail String
-type String
-ownerName String
+// Iterator class
+// It is time to explore some unique classes and methods in Collections. The Iterator class is one such. You have created test d ata for Stall class
+// with the name of stall starting with prefix 'test', It's time to remove those objects. While iterating a collection through a for loop or a for each
+// loop, you cannot modify or remove an element. The Iterator class facilitates such functionalities. Hence while you iterate through a Collection
+// using Iterator you can modify the elements. Let's implement it to delete test data.
+// Strictly adhere to the Object-Oriented specifications given in the problem statement. All class names, attribute names and method
+// names should be the same as specified in the problem statement.
+// Create a class Stall with the following private attributes.
+// Attributes Datatype
+// name String
+// detail String
+// type String
+// ownerName String
 
-Include getters and setters.
-Create a default and Parameterized constructors.
-Format for the parameterized constructor is Stall(String name, String detail, String type, String ownerName)
-Create a driver class called Main. In the Main method, obtain stall input from the user and create a list of Stall details. Using the Iterator class
-iterate through the List and remove stalls with a name starting with 'test'.
-Display the list of details in tabular form."""
+// Include getters and setters.
+// Create a default and Parameterized constructors.
+// Format for the parameterized constructor is Stall(String name, String detail, String type, String ownerName)
+// Create a driver class called Main. In the Main method, obtain stall input from the user and create a list of Stall details. Using the Iterator class
+// iterate through the List and remove stalls with a name starting with 'test'.
+// Display the list of details in tabular form.
 
 
 
